@@ -9,4 +9,4 @@ psycopg2
 tldextract
 icmplib
 
-This repository will content all my Python scripts
+This repository will content all my Python scripts & framework for penetration testing
